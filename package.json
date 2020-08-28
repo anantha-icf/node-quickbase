@@ -45,7 +45,7 @@
     "debug": "^2.6.4",
     "generic-throttle": "^1.0.1",
     "lodash.merge": "^4.6.2",
-    "xml2js": "^0.4.17"
+    "xml2js": "^0.4.23"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
