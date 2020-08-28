@@ -41,7 +41,7 @@
     "build-test": "gulp build-test"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.7.2",
     "debug": "^2.6.4",
     "generic-throttle": "^1.0.1",
     "lodash.merge": "^4.6.2",
